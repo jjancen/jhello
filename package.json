@@ -1,0 +1,9 @@
+{
+  "name": "demo01",
+  "version": "0.0.1",
+  "description": "Jellacha - demo01",
+  "author": "John Anhuaman Centeno",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
